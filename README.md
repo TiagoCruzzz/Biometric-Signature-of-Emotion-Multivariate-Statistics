@@ -1,6 +1,7 @@
 #### Tiago Almeida Cruz  | Master's Degree in Biomedical Engineering 
 #
 ## Repository Organization: 
+
 ### Baseline Analysis: 
 #### &#8594; Baseline_methodology_A: Contains the groups formed by CA on the baseline data associated with the features selected on the basis of methodology A 
 
