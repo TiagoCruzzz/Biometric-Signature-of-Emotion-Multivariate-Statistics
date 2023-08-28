@@ -1,4 +1,6 @@
-#### Tiago Almeida Cruz  | Master's Degree in Biomedical Engineering 
+# Tiago Almeida Cruz  | Master's Degree in Biomedical Engineering 
+#### If you are interested in my master thesis document, feel free to check out this link: To be made available
+#### If you are interested in the research paper, feel free to check out this link: To be developed
 #
 ## Biometric Signature of Emotion: Multivariate Statistics
 #### Emotional recognition, based on physiological signals and self-assessment questionnaires of the emotional state, is important to understand how human beings react physiologically to a given emotional stimulus and how they describe what they experience. Human beings are complex systems and react in different ways to the same emotional stimulus, which may make it important to consider, a priori, groups of individuals who respond in a similar way to the stimulation generated, in order to build more efficient emotional recognition models. Therefore, this work allowed to interpret and describe an emotional profile through a priori characterization of participants. 
@@ -9,6 +11,9 @@
 #### 3. Understand if the Principal Components Analysis, by bringing changes in the dimensional space, allows obtaining better results in emotion classification.
 #### 4. Understand if the analysis of the physiological signals separately gives better results in terms of performance of the models developed in comparison with the consideration of the signals together.
 #### 5. Understand whether the separation into groups confers improvements in terms of the results of the emotional classification model compared to the global case (without separation by groups).
+
+### Block diagram of the method used:
+![image](https://github.com/TiagoCruzzz/Biometric-Signature-of-Emotion-Multivariate-Statistics/assets/134963522/545ed12d-7748-470c-8c0e-ebe3a51bea1a)
 
 #
 ## Repository Organization: 
@@ -148,5 +153,4 @@ principal components analysis over the features selected based on methodology A 
 consideration of ECG, EDA, EMG, or ECG+EDA+EMG signals on the baseline.
 
 #### &#8594; Final optimized model: 
-* __Complementary Information F:__<br>Graphs of the results obtained With the optimized constructed model in terms of Recall and Precision. This information complements Section 5.5.1. 
-
+* __Complementary Information F:__<br>Graphs of the results obtained With the optimized constructed model in terms of Recall and Precision. This information complements Section 5.5.1.
