@@ -13,7 +13,7 @@
 * __state_trait:__<br>Contains the factor analysis and cluster analysis carried out (applies to session 1 and session 2)
 
 #### &#8594; VAS pos: 
-* __vas-pos:__<br>Contains the factor analysis and cluster analysis for the fear, happy and neutral states and for session 1 and 2 of each (only the file you enter varies)
+* __Fear_Happy_Neutral:__<br>Contains the factor analysis and cluster analysis for the fear, happy and neutral states and for session 1 and 2 of each (only the file you enter varies)
 
 #### &#8594; VAS pre: 
 * __vas-pre:__<br> Contains factor analysis and cluster analysis for vas pre session 1 and session 2
