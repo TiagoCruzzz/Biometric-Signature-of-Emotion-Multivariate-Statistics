@@ -91,7 +91,7 @@
 #### Optimized models, one for each combination between groups formed and features of physiological signals, for dataset 6, and using the optimal features and optimal hyperparameters obtained previously.
 
 
-## Complementary information:  
+## Complementary information to the master thesis document:  
 ### Results and Discussion: 
 #### &#8594; VAS-Pre questionnaire: 
 * __Complementary Information A:__<br>Boxplots made for the cases where VAS-POS questionnaires were used, carried out after each emotional stimulation (Fear, Happy and Neutral). This information complements Section 5.1.2. 
