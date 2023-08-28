@@ -20,7 +20,7 @@
 * __VAS-PRE.ipynb:__<br> Contains a factor analysis with boxplots associated with groups formed from the scores generated
 
 ### Fear Analysis:
-#### &#8594; Fear_features: Contains the cluster analysis carried out on the data associated with the features selected using the A methodology for each physiological signal separately. 
+#### &#8594; Fear_features: Contains the cluster analysis carried out on the data associated with the features selected using the methodology A for each physiological signal separately. 
 #### &#8594; fear_features_excerpts_s1: Contains analyses carried out for each group of participants (G1, G2 and G3) and for each combination made between these groups and the features of each physiological signal collected during fear stimulation (e.g: G1-EMG, G1-ECG, G1-EDA, G1_EMG+EDA+ECG), for each case it provides data on the loagings, scores and % of var explained and transfers this data to excel, it also provides scree plots, contribution of the variables/features to PC1, PC2 and PC3, biplot, 3D graph with the distribution associated with the first 3 PCs.
 #### &#8594; fear_features_excerpts_geral_s1: Contains analyses carried out for the general case (signals collected during fear stimulation), for each case provides data on loagings, scores and % of var explained and transfers this data to excel, also provides scree plots, contribution of variables/features to PC1, PC2 and PC3, biplot, 3D graph with the distribution associated with the first 3 PCs.
 #### &#8594; Fear_Analysis_A.ipynb: Contains the selected features (fear stimulation) from methodology A for session 1 and 2
