@@ -1,5 +1,16 @@
 #### Tiago Almeida Cruz  | Master's Degree in Biomedical Engineering 
 #
+## Biometric Signature of Emotion: Multivariate Statistics
+#### Emotional recognition, based on physiological signals and self-assessment questionnaires of the emotional state, is important to understand how human beings react physiologically to a given emotional stimulus and how they describe what they experience. Human beings are complex systems and react in different ways to the same emotional stimulus, which may make it important to consider, a priori, groups of individuals who respond in a similar way to the stimulation generated, in order to build more efficient emotional recognition models. Therefore, this work allowed to interpret and describe an emotional profile through a priori characterization of participants. 
+
+#### In this process some open questions were analyzed and a lot of things were made:
+#### 1. Analysing questionnaires and physiological signals (ECG, EDA, EMG) and defining groups of individuals based on these. 
+#### 2. Building and optimizing machine learning models for each group individually and for the global case where all participants are considered together.
+#### 3. Understand if the Principal Components Analysis, by bringing changes in the dimensional space, allows obtaining better results in emotion classification.
+#### 4. Understand if the analysis of the physiological signals separately gives better results in terms of performance of the models developed in comparison with the consideration of the signals together.
+#### 5. Understand whether the separation into groups confers improvements in terms of the results of the emotional classification model compared to the global case (without separation by groups).
+
+#
 ## Repository Organization: 
 
 ### Baseline Analysis: 
