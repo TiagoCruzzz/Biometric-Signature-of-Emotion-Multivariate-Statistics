@@ -15,6 +15,16 @@
 ### Block diagram of the method used:
 ![image](https://github.com/TiagoCruzzz/Biometric-Signature-of-Emotion-Multivariate-Statistics/assets/134963522/545ed12d-7748-470c-8c0e-ebe3a51bea1a)
 
+
+### Main conclusions:
+#### 1. According to PCA, the smaller groups encompassed information belonging to the tails of the distribution and the larger group assume values closer to the mean. This points to the importance of separating individuals into groups based on their profiles and emotional states.
+#### 2. The consideration of principal components allowed better results for some of the combinations.
+#### 3. Using physiological signals together (EMG, EDA and ECG) brings better results than separately. 
+#### 4. The establishment of emotional models for each group of participants formed allows for an improvement in their performance, when compared to the consideration of a global model that incorporates all individuals together. 
+
+#### Comparative representation of the performance evaluator F1-score, obtained for each group on each emotion considered, according to the consideration of the physiological signals together (EMG, EDA and ECG) and individually (EMG), (ECG), (EDA):
+![image](https://github.com/TiagoCruzzz/Biometric-Signature-of-Emotion-Multivariate-Statistics/assets/134963522/83d77d3e-b547-422e-9ab7-83f370107f51)
+
 #
 ## Repository Organization: 
 
